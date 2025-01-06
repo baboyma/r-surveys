@@ -1,11 +1,11 @@
 # r-surveys
 Analyzing Survey Data in R - A journey back to field data 
 
-Surveys are cheaper and faster than censuses, but yet still take about the same time to process and disseminate results.
+Surveys are cheaper and faster than census, but yet still take about the same time to process and disseminate results.
 
 ## Tools & Resources
 
-R with primary Positron IDE (An alternative to RStudio), and survey package.
+R with primary Positron IDE (An alternative to RStudio), and survey R Packages.
 
 ## Study Guide 
 
