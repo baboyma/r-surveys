@@ -5,6 +5,7 @@
 # Session Data files
 .RData
 .RDataTmp
+.DS_Store
 
 # User-specific files
 .Ruserdata
@@ -47,3 +48,17 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+#no data
+*.csv
+*.txt
+*.rds
+*.xlsx
+*.xls
+*.zip
+*.png
+
+#nothing from these folders
+Data/*
+Documents/*
+Outputs/*
