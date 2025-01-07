@@ -61,4 +61,5 @@ rsconnect/
 #nothing from these folders
 Data/*
 Documents/*
+!Documents/gemini-recommendation.md
 Outputs/*
